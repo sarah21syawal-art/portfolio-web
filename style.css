@@ -9,18 +9,18 @@
     --bg-color: #f8f9fa;
     --text-color: #333333;
     --card-bg: #ffffff;
-    --primary-color: #2563eb;
-    --primary-hover: #1d4ed8;
+    --primary-color: #f4883c;
+    --primary-hover: #fc9834;
     --nav-bg: #ffffff;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 [data-theme="dark"] {
-    --bg-color: #0f172a;
+    --bg-color: #431903;
     --text-color: #f1f5f9;
-    --card-bg: #1e293b;
-    --primary-color: #3b82f6;
-    --primary-hover: #60a5fa;
+    --card-bg: #f98f00;
+    --primary-color: #ffcd89;
+    --primary-hover: #ffbd66;
     --nav-bg: #1e293b;
     --shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
